@@ -1,6 +1,7 @@
 # 💬 ESP8266 Local Chatroom
 
-A fun project where an **ESP8266 board becomes its own Wi-Fi hotspot and chat server**.  
+A fun project that transforms an ESP8266 board into a standalone Wi-Fi hotspot and local chat server, enabling real-time communication between connected devices.
+
 Users can connect with their phones or laptops, open a webpage, and chat with everyone else on the same hotspot — no mobile data or internet required!  
 
 ## Status: Unfinished 🚧
